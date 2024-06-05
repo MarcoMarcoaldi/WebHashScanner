@@ -34,3 +34,9 @@ Example (after modify wp-config.php) :
 ## Conclusion
 "Web Hash Scanner" provides a reliable and automated method for monitoring changes to critical files in a web installation. With its ability to detect modified and newly created files, the software allows for targeted and timely analysis, helping to maintain the security and integrity of the system even in the face of persistent and sophisticated attacks.
 
+## License
+This project is licensed under the AGPL 3.0 License https://www.gnu.org/licenses/agpl-3.0.en.html
+Please contribute, fork and expand it. U Are Welcome !
+
+For questions, write me at info@managedserver.it
+

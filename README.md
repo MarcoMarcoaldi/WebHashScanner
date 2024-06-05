@@ -19,6 +19,8 @@ This approach allows operators to focus on the files that have been actually mod
 ## Software Usage
 After removing an infection or cleaning the system, it is advisable to run the software to create a snapshot of the clean state of the system. During this phase, it is good practice not to install new .php, .js, or .css files, such as updates to WordPress plugins or Prestashop modules, as this could result in many false positive changes reported by the software. Subsequently, it is appropriate to periodically run the software to compare the current state with the saved snapshot, promptly identifying any suspicious changes.
 
+Edit webhashscanner.sh and change DOCROOT_PATH to your Document Root installation (usually public_html, or htdocs or httpdocs), chmod +x the script and run ./webhashscanner.sh
+
 Example (after create a new file) :
 
 ![image](https://github.com/MarcoMarcoaldi/WebHashScanner/assets/113010551/b85ac08e-7a5a-4ec3-8137-8911cc812fc1)

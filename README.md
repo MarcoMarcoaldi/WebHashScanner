@@ -1,7 +1,8 @@
 # WebHashScanner
 A pure Linux Bash .php, .js, .css  Web Hash Scanner, for detect file change and new file injection, using SQLite for backend and hash storage.
 
-![image](https://github.com/MarcoMarcoaldi/WebHashScanner/assets/113010551/52d239bf-098a-4e18-893b-a1e3f475315a)
+![image](https://github.com/MarcoMarcoaldi/WebHashScanner/assets/113010551/fb436fc0-341d-46b7-bde7-188d39594c9c)
+
 
 Following a cyber attack or malware infection, it is common to find the presence of backdoors and access vectors that allow the attacker to maintain control over the compromised system. These access vectors can involve the creation or modification of files, often days or weeks after the initial compromise, making it difficult to identify and completely remove the malware.
 

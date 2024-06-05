@@ -1,4 +1,4 @@
-# WebHashScanner
+# WebHashScanner.sh
 A pure Linux Bash .php, .js, .css  Web Hash Scanner, for detect file change and new file injection, using SQLite for backend and hash storage.
 
 ![image](https://github.com/MarcoMarcoaldi/WebHashScanner/assets/113010551/fb436fc0-341d-46b7-bde7-188d39594c9c)
